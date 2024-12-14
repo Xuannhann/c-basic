@@ -1,0 +1,11 @@
+﻿  program.cpp
+E:\nguyen ly lap trinh\DE_THI\DE_THI\thuvien.h(87,20): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'program.cpp')
+  
+E:\nguyen ly lap trinh\DE_THI\DE_THI\thuvien.h(87,41): warning C4018: '<=': signed/unsigned mismatch
+  (compiling source file 'program.cpp')
+  
+E:\nguyen ly lap trinh\DE_THI\DE_THI\thuvien.h(130,19): warning C4018: '>=': signed/unsigned mismatch
+  (compiling source file 'program.cpp')
+  
+  DE_THI.vcxproj -> E:\nguyen ly lap trinh\DE_THI\x64\Debug\DE_THI.exe
