@@ -1,0 +1,9 @@
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\bin\Debug\linked_list_ontap_MXNhan.exe.config
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\bin\Debug\linked_list_ontap_MXNhan.exe
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\bin\Debug\linked_list_ontap_MXNhan.pdb
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\obj\Debug\linked_list_ontap_MXNhan.csproj.AssemblyReference.cache
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\obj\Debug\linked_list_ontap_MXNhan.csproj.CoreCompileInputs.cache
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\obj\Debug\linked_list_ontap_MXNhan.exe
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\obj\Debug\linked_list_ontap_MXNhan.pdb
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\obj\Debug\linked_list_ontap_MXNhan.exe.config
+D:\CTDLGT\linked_list_ontap_MXNhan\linked_list_ontap_MXNhan\bin\Debug\khachhang.txt
